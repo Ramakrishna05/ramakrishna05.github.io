@@ -13,15 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: A Rainy Evening...
+email: ramakrishnaappicharla@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+  Personal website of Ramakrishna Appicharla
+# twitter_username: username
+github_username: Ramakrishna05
+minimal_mistakes_skin: "dark"
 search: true
 #<a href="http://www.nerdtests.com/ft_nq.php">
 #<img src="http://www.nerdtests.com/images/ft/nq/5ff9020d2a.gif" alt="I am nerdier than 96% of all people. Are you a nerd? Click here to take the Nerd Test, get geeky images and jokes, and write on the nerd forum!"></a>
@@ -60,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Ramakrishna Appicharla"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Just a lonely guy... Currently doing PhD in Neural Machine Translation from Indian Institute of Technology Patna. I want to study how a human brain creates memories..."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
