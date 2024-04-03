@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ramakrishna Appicharla"
-  avatar : "/assets/images/photo_pxl.jpg"
+  avatar : "assets/images/PXL_20240326_042647501.jpg"
   bio    : "Just a lonely guy... Currently doing PhD in Neural Machine Translation from Indian Institute of Technology Patna. I want to study how a human brain creates memories..."
   links:
     - label: "Website"
