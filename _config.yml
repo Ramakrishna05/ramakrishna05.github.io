@@ -72,9 +72,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Ramakrishna05"
-    # - label: "Facebook"
-      # icon: "fab fa-fw fa-facebook"
-      # url: "https://www.facebook.com/profile.php?id=100083187707780"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/profile.php?id=100083187707780"
 
 footer:
   links:
