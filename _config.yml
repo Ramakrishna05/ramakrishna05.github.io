@@ -78,9 +78,9 @@ author:
 
 footer:
   links:
-    - label: "Home"
-      icon: "fab fa fa-compass"
-      url: "https://ramakrishna05.github.io/"
+    #- label: "Home"
+      #icon: "fab fa fa-compass"
+      #url: "https://ramakrishna05.github.io/"
     #- label: "GitHub"
       #icon: "fab fa-fw fa-github"
       #url: "https://github.com/"
