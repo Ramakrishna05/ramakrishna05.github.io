@@ -1,6 +1,6 @@
 # Hi there.!
 
-# The webpage is developed with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
+### The webpage is developed with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
 
 <!--
 # Minimal Mistakes remote theme starter
