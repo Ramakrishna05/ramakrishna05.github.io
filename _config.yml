@@ -78,9 +78,9 @@ author:
 
 footer:
   links:
-    - label: "Home"
-      icon: "fab fa-solid fa-house"
-      url: "https://ramakrishna05.github.io/"
+    - label: "Mail"
+      icon: "fab fa-fw fa-at"
+      url: "ramakrishnaappicharla@gmail.com"
     #- label: "GitHub"
       #icon: "fab fa-fw fa-github"
       #url: "https://github.com/"
