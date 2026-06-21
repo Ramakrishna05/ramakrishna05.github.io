@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Personal website of Ramakrishna Appicharla
 # twitter_username: username
 github_username: Ramakrishna05
-minimal_mistakes_skin: "dark"
+minimal_mistakes_skin: "neon" # dark
 search: true
 #<a href="http://www.nerdtests.com/ft_nq.php">
 #<img src="http://www.nerdtests.com/images/ft/nq/5ff9020d2a.gif" alt="I am nerdier than 96% of all people. Are you a nerd? Click here to take the Nerd Test, get geeky images and jokes, and write on the nerd forum!"></a>
