@@ -72,9 +72,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/Ramakrishna05"
-    - label: "Email"
-      icon: "fab fa-fw fa-envelope"
-      url: "mailto:ramakrishnaappicharla@gmail.com"
+    #- label: "Email"
+      #icon: "fab fa-fw fa-envelope"
+      #url: "mailto:ramakrishnaappicharla@gmail.com"
 
 footer:
   links:
