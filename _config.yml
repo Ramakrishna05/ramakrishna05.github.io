@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Ramakrishna Appicharla"
-  avatar :  "assets/images/photo-pxl-v2.jpg" # "assets/images/IMG_4373.JPG"
+  avatar :  "assets/images/new_pic_for_web.jpeg" # "assets/images/IMG_4373.JPG, /photo-pxl-v2.jpg"
   bio    : "Machine Translation Researcher"
   location: "Earth!"
   links:
