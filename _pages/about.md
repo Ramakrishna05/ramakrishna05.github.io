@@ -11,4 +11,4 @@ My main research goal is to bridge linguistic theories and cognitive insights wi
 
 Before my PhD, I completed my Master's in Artificial Intelligence from the University of Hyderabad (UoH) and my Bachelor's in Computer Science and Engineering from Jawaharlal Nehru Technological University, Gurajada-Vizianagaram (JNTU-GV).
 
-If you'd like to learn more about my research or connect for collaboration, feel free to reach out at: [mailto:ramakrishnaappicharla@gmail.com](ramakrishnaappicharla@gmail.com)
+If you'd like to learn more about my research or connect for collaboration, feel free to reach out at: [ramakrishnaappicharla@gmail.com](mailto:ramakrishnaappicharla@gmail.com)
